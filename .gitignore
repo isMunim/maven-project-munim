@@ -10,4 +10,5 @@ reports/
 **/*.mflow
 
 derby.log
+activemq-data/
 # End of https://www.gitignore.io/api/mule
